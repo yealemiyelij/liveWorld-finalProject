@@ -21,3 +21,7 @@ Generally, from user perspective the app is usefull
                     @ you can add yourself to indicate that you are going to there and you can share as you want with friends once you are a facebook user;
                     @ you can remove yourself and remove the list of bars and restaurants you have visited;
                     @ once you logged in using your facebook account and saved the name of a bar orrestaurtant or multiples of bars and restayrant in different cities, you can access it simply by typing the name and your list of saved names will be populated. You dont have to bother to remmeber names any more.
+
+
+To dymistfy what you have to do: please
+  *** make npm install before downloading and re-producing it. Then say node server.js or npm start to run.
